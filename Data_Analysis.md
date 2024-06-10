@@ -16,7 +16,7 @@ Then examined GDP and Life Expectancy over time by country
 ![alt text](D:\Computer Science\Visual Studio Scripts\Life-Expectancy-and-GDP-Starter\Life-Expectancy-and-GDP-Starter\gdp_over_time.png "GDP Over Time")
 ![alt text](D:\Computer Science\Visual Studio Scripts\Life-Expectancy-and-GDP-Starter\Life-Expectancy-and-GDP-Starter\life_expectancy_over_time.png "Life Expectancy Over Time")
 
-## Patterns unveiled
+## Patterns Unveiled
 
 GDP and Life Expectancy seem to be positively correlated -- as one variable increases, the other predictably increases alongside it. This correlation persists despite orders of magnitude of difference in different GDP values per country (e.g., Zimbabwe vs China.)
 
